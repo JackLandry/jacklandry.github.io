@@ -6,5 +6,5 @@ author_profile: true
 
 I am a research professional at the [University of Chicago Harris School of Public Policy](https://harris.uchicago.edu/) working for Professors [Anjali Adukia](https://harris.uchicago.edu/directory/anjali-adukia) and [Yana Gallen](https://harris.uchicago.edu/directory/yana-gallen). I got my B.A in Economics and Political Science from [Rutgers University-New Brunswick](https://newbrunswick.rutgers.edu/) in 2018. 
 
-Broadly, I am interested in political science and program evalutation. Lately, I've been working on a couple of projects about election administration as well as evaluating a program in New York City that provided tennants in eviction court with a free lawyer. 
+Broadly, I am interested in political science and program evaluation. Lately, I've been working on a couple of projects about election administration as well as evaluating a program in New York City that provided free legal representation to tenants in eviction court. 
 
