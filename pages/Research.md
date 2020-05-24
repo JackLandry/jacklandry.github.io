@@ -1,5 +1,5 @@
 ---
-title:
+title: Research
 description: 
 type: pages
 layout: single
