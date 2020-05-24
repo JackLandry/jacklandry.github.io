@@ -6,13 +6,11 @@ layout: single
 author_profile: true
 ---
 
-#Research
-
-### Papers With A Link
+__Papers With a Link__
 
 [The Effect of Voter ID Laws on Beliefs in Electoral Integrity](../papers/attitudes_voter_id.pdf) 
 
-### Papers Almost Ready (Check Back Soon)
+__Papers Almost Ready (Check Back Soon)__
 
 The Uneven Application of Voter ID Laws
 
