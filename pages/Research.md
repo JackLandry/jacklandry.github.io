@@ -1,6 +1,6 @@
 ---
 title: Research
-description: 
+description: Research Papers
 type: pages
 layout: single
 author_profile: true
