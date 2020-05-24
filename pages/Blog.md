@@ -6,4 +6,4 @@ layout: single
 author_profile: true
 ---
 
-[Testing](../blog/test-post.html)
+[Testing](../blog_posts/test-post.html)
