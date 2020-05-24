@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Research
 description:
 type: pages
 layout: single
