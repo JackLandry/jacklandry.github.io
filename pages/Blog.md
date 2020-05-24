@@ -1,5 +1,5 @@
 ---
-title:
+title: Blog
 description: 
 type: pages
 layout: single
