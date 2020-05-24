@@ -11,7 +11,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-US"
@@ -19,7 +19,7 @@ title                    : "Jack Landry"
 title_separator          : "-"
 name                     : "Jack Landry"
 description              : ""
-url                      :  "https://jacklandry.github.io"
+url                      : "https://jacklandry.github.io"
 baseurl                  : #"/index.html" # the subpath of your site, e.g. "/index"
 repository               : #jacklandry.github.io/JackLandry
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
