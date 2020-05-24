@@ -10,16 +10,16 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Jack Landry"
 title_separator          : "-"
 name                     : "Jack Landry"
-description              : "Jack Landry's Website."
+description              : ""
 url                      :  "https://jacklandry.github.io"
 baseurl                  : #"/index.html" # the subpath of your site, e.g. "/index"
 repository               : #jacklandry.github.io/JackLandry
