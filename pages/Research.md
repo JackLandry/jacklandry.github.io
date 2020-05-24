@@ -1,6 +1,6 @@
 ---
-title: Research
-description: Research Papers
+title: Test
+description:
 type: pages
 layout: single
 author_profile: true
