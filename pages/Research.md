@@ -7,13 +7,16 @@ author_profile: true
 ---
 
 
-__Papers With a Link__
+__Papers with a PDF Link__
 
 [The Effect of Voter ID Laws on Beliefs in Electoral Integrity](../papers/attitudes_voter_id.pdf) 
 
-__Papers Almost Ready (Check Back Soon)__
+__Papers with an Abstract Link (Check Back Soon for PDF)__
 
-[The Uneven Application of Voter ID Laws](../pages/id_laws_race.md)
+[The Uneven Application of Voter ID Laws](../pages/abstracts/id_laws_race.md)
 
-The Effect of Access to Council on Evictions: Evidence from NYC
+[The Effect of Access to Council on Evictions: Evidence from NYC
+](../pages/abstracts/evictions_nyc.md)
+
+
 
