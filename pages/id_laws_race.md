@@ -1,8 +1,9 @@
 ---
 title:  "The Uneven Application of Voter ID Laws"
-last_modified_at: 2018-03-20T16:01:04-04:00
-toc:false
-toc_label: "Getting Started"
+description: 
+type: pages
+layout: single
+author_profile: true
 ---
 
 
