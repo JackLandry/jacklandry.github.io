@@ -17,6 +17,3 @@ __Papers with an Abstract Link (Check Back Soon for a PDF)__
 
 [The Effect of Access to Council on Evictions: Evidence from NYC
 ](../pages/abstracts/evictions_nyc.md)
-
-
-
