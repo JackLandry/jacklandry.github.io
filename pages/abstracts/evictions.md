@@ -1,5 +1,5 @@
 ---
-title:  "The Uneven Application of Voter ID Laws"
+title:  "The Effect of Access to Council on Evictions: Evidence from New York City's Universal Access Law"
 description: 
 type: pages
 layout: single
