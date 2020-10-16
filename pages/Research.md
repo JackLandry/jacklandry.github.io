@@ -11,7 +11,7 @@ author_profile: true
 
 __Papers with a PDF Link__
 
-[The Effect of Voter ID Laws on Beliefs in Electoral Integrity](../papers/attitudes_voter_id.pdf) 
+[The Effect of Voter ID Laws on Beliefs in Electoral Integrity](../papers/attitudes_voter_id_10_15.pdf) 
 
 __Papers with an Abstract Link (Check Back Soon for a PDF)__
 
