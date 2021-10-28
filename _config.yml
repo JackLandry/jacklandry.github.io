@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Jack Landry"
   avatar           : "/assets/img/bio-photo.png"
-  bio              : "Research Professional, University of Chicago"
-  location         : "Chicago, IL"
-  email            : "jacklandry@uchicago.edu"
+  bio              : "Fellow, Jain Family Institute"
+  location         : "New York, NY"
+  email            : "jack.landry@jainfamilyinstitute.org"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jacklandry@uchicago.edu"
+      url: "mailto:jack.landry@jainfamilyinstitute.org"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jacklandry.github.io/"
