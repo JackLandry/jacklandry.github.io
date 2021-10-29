@@ -6,5 +6,5 @@ main:
     url: /pages/Research/
   - title: "Blog"
     url: /pages/Blog/
-  - title: "Resume"
-    url: /papers/CV_Jack_Landry.pdf
+#  - title: "Resume"
+#    url: /papers/CV_Jack_Landry.pdf
