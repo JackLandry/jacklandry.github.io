@@ -85,9 +85,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal"
+  provider               : "custom"
   google:
-    tracking_id          : UA-123906819-1
+    tracking_id          : G-DBCHH03ZN7
     anonymize_ip         : false
 
 
