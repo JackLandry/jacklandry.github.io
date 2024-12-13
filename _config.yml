@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Jack Landry"
   avatar           : "/assets/img/bio-photo.png"
-  bio              : "Research Associate, Jain Family Institute"
-  location         : "New York, NY"
+  bio              : "Lead Researcher, Jain Family Institute"
+  location         : "Chicago, IL"
   email            : "jack.landry@jainfamilyinstitute.org"
   links:
     - label: "Email"
