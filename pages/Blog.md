@@ -11,6 +11,6 @@ author_profile: true
 
 [Household Level Covid-19 Vulnerability](../blog_posts/covid-blog.html)
 
-[Varying Effects of Universial Vote By Mail?](../blog_posts/vbm-hetrogeneity-blog.html)
+[Varying Effects of Universal Vote By Mail?](../blog_posts/vbm-hetrogeneity-blog.html)
 
 [Fast Implementation of Vote By Mail is Unprecedented in American History](../blog_posts/vote-by-mail-blog.html)
