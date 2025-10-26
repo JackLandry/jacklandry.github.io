@@ -1,4 +1,5 @@
 ---
+layout: home
 title: Jack Landry
 description: Website for Jack Landry, Lead Researcher, Jain Family Institute
 author_profile: true
