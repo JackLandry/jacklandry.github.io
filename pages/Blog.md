@@ -6,6 +6,7 @@ layout: single
 author_profile: true
 ---
 
+Note all posts are from 2020
 
 [Health Differences Between Republicans and Democrats](../blog_posts/Health-partisianship-blog.html)
 
