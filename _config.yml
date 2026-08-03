@@ -20,7 +20,7 @@ title                    : "Jack Landry"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "Jack Landry"
-description              : "Lead Researcher at the Jain Family Institute"
+description              : "Founder and research lead at Civic Data Atlas"
 url                      : "https://jacklandry.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jack Landry"
   avatar           : "/assets/img/bio-photo.png"
-  bio              : "Lead Researcher, Jain Family Institute"
+  bio              : "Founder and research lead, Civic Data Atlas"
   location         : "Chicago, IL"
   email            : "jack.landry@jainfamilyinstitute.org"
   links:
@@ -273,4 +273,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
